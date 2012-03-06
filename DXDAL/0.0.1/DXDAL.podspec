@@ -7,7 +7,7 @@ Pod::Spec.new do |s|
   
   s.source   = { :git => 'git@github.com:111minutes/DXDAL.git', :commit => '27fd540809a84ad0f4aa47a850bbc23e8acac808' }
   
-  s.source_files = 'DXDAL/Code/*.{h,m}', 'DXDAL/Code/**/*.{h,m}'
+  s.source_files = 'DXDAL/Code/**/*.{h,m}'
   
   s.dependency 'JSONKit'
   s.dependency 'AFNetworking'
