@@ -12,6 +12,7 @@ Pod::Spec.new do |s|
   s.dependency 'JSONKit'
   s.dependency 'AFNetworking'
   s.dependency 'Reachability'
+  s.dependency 'DXDomain'
   
   s.requires_arc = true
 end
