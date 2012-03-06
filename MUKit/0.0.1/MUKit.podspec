@@ -6,9 +6,9 @@ Pod::Spec.new do |s|
   s.homepage = 'https://github.com/Malaar/MUKit'
   s.author   = 'MUKitTeam'
   
-  s.source   = { :git => 'git@github.com:Malaar/MUKit.git', :commit => '66b20c9d7c4089865b9c9ad13ca7789453ddbd1e' }
+  s.source   = { :git => 'git@github.com:Malaar/MUKit.git', :commit => 'dcc92b1587bb745497f461dd37824d06635a3332' }
 
-  s.source_files = '*/*.{h,m}', '*/**/*.{h,m}'
+  s.source_files = '**/*.{h,m}', '**/**/*.{h,m}'
   
   s.framework    = 'QuartzCore'
   
