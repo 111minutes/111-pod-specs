@@ -8,7 +8,7 @@ Pod::Spec.new do |s|
   
   s.source   = { :git => 'git@github.com:Malaar/MUKit.git', :commit => '66b20c9d7c4089865b9c9ad13ca7789453ddbd1e' }
 
-  s.source_files = 'MUKit/**/*.{h,m}', 'MUKi/**/**/*.{h,m}'
+  s.source_files = '*/*.{h,m}', '*/**/*.{h,m}'
   
   s.framework    = 'QuartzCore'
   
