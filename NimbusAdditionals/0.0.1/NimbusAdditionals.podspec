@@ -10,6 +10,6 @@ Pod::Spec.new do |s|
   
   s.source_files = 'NimbusAdditionals/**/*.{h,m}'
   
-  s.dependency = 'Nimbus/Models'
+  s.dependency 'Nimbus/Models'
   
 end
