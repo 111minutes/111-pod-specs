@@ -13,6 +13,7 @@ Pod::Spec.new do |s|
   s.dependency 'AFNetworking'
   s.dependency 'Reachability'
   s.dependency 'DXDomain'
+  s.dependency 'JTObjectMapping'
   
   s.requires_arc = true
 end
