@@ -9,6 +9,7 @@ Pod::Spec.new do |s|
   s.source   = { :git => 'git@github.com:111minutes/SocialEngine.git', :commit => '77cf3b43acd2f35cdb79e1080e3c7b6512357cd9' }
   
   s.source_files = 'SocialEngine/API/**/*.{h,m,c,bundle}', 'SocialEngine/DXSocialEngine/**/*.{h,m,c,bundle}'
+  s.resources    = '/**/*.bundle'
   
   s.frameworks  = 'QuartzCore', 'Security'
   s.libraries   = 'xml2'
