@@ -12,4 +12,6 @@ Pod::Spec.new do |s|
   
   s.framework    = 'QuartzCore'
   
+  s.dependency 'AFNetworking' 
+
 end
