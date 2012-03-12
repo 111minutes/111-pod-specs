@@ -6,7 +6,7 @@ Pod::Spec.new do |s|
   s.homepage = 'https://Malaar@github.com/111minutes/SocialEngine.git'
   s.author   = 'MUKitTeam'
   
-  s.source   = { :git => 'git@github.com:111minutes/SocialEngine.git', :commit => '867492f5b9c9e84684debbc12f2f0b5fd2b5cc21' }
+  s.source   = { :git => 'git@github.com:111minutes/SocialEngine.git', :commit => '3a40671d6bf31d451d3584e7b407fe1c3e857555' }
   
   s.source_files = 'SocialEngine/API/**/*.{h,m,c,bundle}', 'SocialEngine/DXSocialEngine/**/*.{h,m,c,bundle}'
   s.resources    = 'SocialEngine/API/SCFacebook/Facebook/FBDialog.bundle', '/SocialEngine/API/Twitter/Twitter.bundle'
