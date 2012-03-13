@@ -8,7 +8,7 @@ Pod::Spec.new do |s|
   
   s.source   = { :git => 'https://github.com/BradLarson/GPUImage.git', :commit => 'a30ff18015ad70bef8f1122b45daf5137a343315' }
   
-  s.source_files = '**/**/*.{h,m}'
+  s.source_files = 'framework/Source/*.{h,m}'
   
   s.framework    = 'QuartzCore', 'CoreMedia', 'CoreVideo', 'AVFoundation', 'OpenGLES'
   
