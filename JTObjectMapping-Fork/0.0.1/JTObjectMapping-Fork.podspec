@@ -5,7 +5,7 @@ Pod::Spec.new do |s|
   s.summary  = 'A very simple objective-c framework that maps a JSON response from NSDictionary or NSArray to an NSObject subclass for iOS'
   s.homepage = 'https://github.com/111minutes/JTObjectMapping'
   s.author   = 'mystcolor'
-  s.source   = { :git    => 'git@github.com:111minutes/JTObjectMapping.git', :commit => '7aaba18ee646e7ba7226ed53021a84ada93d71b7' }
+  s.source   = { :git    => 'git@github.com:111minutes/JTObjectMapping.git', :commit => '48889c8df63296b0a73fdd0dc845499f91cd4095' }
 
   s.source_files = 'JTObjectMapping/Source/*.{h,m}'
 end
