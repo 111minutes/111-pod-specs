@@ -6,7 +6,7 @@ Pod::Spec.new do |s|
   s.homepage = 'https://github.com/111minutes/nimbus-additionals'
   s.author   = '111Minutes'
   
-  s.source   = { :git => 'git@github.com:111minutes/nimbus-additionals.git', :commit => 'e60a46b46a0a353faa56d1551c7997470402bd1f' }
+  s.source   = { :git => 'git@github.com:111minutes/nimbus-additionals.git', :commit => '0544df13ca20b1f32675934f61817984a5e9be68' }
   
   s.source_files = 'NimbusAdditionals/**/*.{h,m}'
   
