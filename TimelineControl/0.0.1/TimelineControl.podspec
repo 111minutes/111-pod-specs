@@ -8,6 +8,6 @@ Pod::Spec.new do |s|
   
   s.source   = { :git => 'git@github.com:111minutes/TimelineControl.git', :commit => '8a9fcf2f56dab6663c2dc68b8644a5adfbc0108b' }
   
-  s.source_files = 'TimelineControl/**/*.{h,m}'
+  s.source_files = 'VideoTimelineControl/TimelineControl/**/*.{h,m}'
   
 end
