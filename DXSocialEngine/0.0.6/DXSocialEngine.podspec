@@ -17,5 +17,5 @@ Pod::Spec.new do |s|
   
   s.dependency 'MUKit'
   
-  s.requires_arc = false
+  s.requires_arc = true
 end
