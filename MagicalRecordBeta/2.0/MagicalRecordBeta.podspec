@@ -7,7 +7,7 @@ Pod::Spec.new do |s|
   s.author   = { 'Saul Mora' => 'saul@magicalpanda.com' }
   s.source   = { :git => 'git://github.com/111minutes/MagicalRecord.git', :commit => 'd6d055bffd177b8220ca33c4ac75d8eb298dd6fe' }
   s.description  = 'Handy fetching, threading and data import helpers to make Core Data a little easier to use.'
-  s.source_files = 'Source/**/*.{h,m}'
+  s.source_files = 'MagicalRecord/**/*.{h,m}'
   s.framework    = 'CoreData'
   s.clean_paths  = 'iOS App Unit Tests', 'Mac App Unit Tests', 'Magical Record.xcodeproj', 'Unit Tests'
 	
