@@ -1,5 +1,5 @@
 Pod::Spec.new do |s|
-  s.name     = 'MagicalRecord'
+  s.name     = 'MagicalRecordBeta'
   s.version  = '2.0'
   s.license  = 'MIT'
   s.summary  = 'Super Awesome Easy Fetching for Core Data 1!!!11!!!!1! '
@@ -7,7 +7,7 @@ Pod::Spec.new do |s|
   s.author   = { 'Saul Mora' => 'saul@magicalpanda.com' }
   s.source   = { :git => 'https://github.com/magicalpanda/MagicalRecord.git', :tag => 'beta-2.0' }
   s.description  = 'Handy fetching, threading and data import helpers to make Core Data a little easier to use.'
-  s.source_files = 'Source/**/*.{h,m}'
+  s.source_files = 'MagicalRecord/**/*.{h,m}'
   s.framework    = 'CoreData'
   s.clean_paths  = 'iOS App Unit Tests', 'Mac App Unit Tests', 'Magical Record.xcodeproj', 'Unit Tests'
 
