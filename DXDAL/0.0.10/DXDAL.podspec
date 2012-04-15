@@ -5,7 +5,7 @@ Pod::Spec.new do |s|
   s.license  = 'Apache License, Version 2.0'
   s.author   = '111Minutes'
   
-  s.source   = { :git => 'git@github.com:111minutes/DXDAL.git', :commit => '1de96f321a67f0efc4d38bfd12cfe092373ab322' }
+  s.source   = { :git => 'git@github.com:111minutes/DXDAL.git', :commit => '790e540ed6ec7d4c96e80c8113f0efcb73fb7b24' }
   
   s.source_files = 'DXDAL/Code/**/*.{h,m}'
   
