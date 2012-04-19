@@ -16,9 +16,5 @@ Pod::Spec.new do |s|
   s.xcconfig    = { 'HEADER_SEARCH_PATHS' => '$(SDKROOT)/usr/include/libxml2' }
   
   s.dependency 'MUKit'
-  s.dependency 'TouchJSON'
-  s.dependency 'SBJson','2.2.3'
-  s.dependency 'HTTPRiot'
-  
-  s.requires_arc = true
+
 end
