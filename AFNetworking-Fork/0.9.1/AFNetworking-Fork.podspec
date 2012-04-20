@@ -6,7 +6,7 @@ Pod::Spec.new do |s|
   s.homepage = 'https://github.com/AFNetworking/AFNetworking'
   s.authors  = {'Mattt Thompson' => 'm@mattt.me', 'Scott Raymond' => 'sco@gowalla.com'}
 
-  s.source   = { :git => 'https://YuriyBosov@github.com/111minutes/AFNetworking.git', :commit => '29155523e1a1932534b641c09884b37ea34b59d8' }
+  s.source   = { :git => 'git://github.com/111minutes/AFNetworking.git', :commit => '29155523e1a1932534b641c09884b37ea34b59d8' }
   
   s.source_files = 'AFNetworking'
   
