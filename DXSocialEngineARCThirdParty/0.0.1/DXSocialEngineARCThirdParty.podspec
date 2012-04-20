@@ -10,6 +10,8 @@ Pod::Spec.new do |s|
   
   s.source_files = 'API/**/*.{h,m,}'
   
+  s.dependency 'TouchJSON','1.0'
+  
   s.requires_arc = true
   
 end
