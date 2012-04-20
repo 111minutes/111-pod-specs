@@ -12,6 +12,4 @@ Pod::Spec.new do |s|
   
   s.requires_arc = true
   
-  s.dependency 'TouchJSON'
-  
 end
