@@ -6,7 +6,7 @@ Pod::Spec.new do |s|
   s.homepage = 'https://github.com/111minutes/SocialEngineARCThirdParty'
   s.author   = '111minutes'
   
-  s.source   = { :git => 'git@github.com:111minutes/SocialEngineARCThirdParty.git', :commit => '6ba2b3cf402244bec48e3e01ce3a2a28ba67eb31' }
+  s.source   = { :git => 'git@github.com:111minutes/SocialEngineARCThirdParty.git', :commit => '840fa32791a306197c624563950af9c97d6b13a4' }
   
   s.source_files = 'API/**/*.{h,m,}'
   
