@@ -6,7 +6,7 @@ Pod::Spec.new do |s|
   s.homepage = 'https://github.com/Malaar/MUKit'
   s.author   = 'MUKitTeam'
   
-  s.source   = { :git => 'git://github.com/Malaar/MUKit.git', :commit => 'f28314d468f03f6999cc76ec32accc912dc2998c' }
+  s.source   = { :git => 'git://github.com/Malaar/MUKit.git', :commit => '39bb0bb1ba8d1b19b6905f099f9d0ca3ef4647e0' }
   
   s.source_files = 'MUKit/**/*.{h,m}'
   
