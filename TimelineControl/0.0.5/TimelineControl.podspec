@@ -6,7 +6,7 @@ Pod::Spec.new do |s|
   s.homepage = 'https://github.com/111minutes/VideoTimelineControl'
   s.author   = '111Minutes'
   
-  s.source   = { :git => 'https://sergeyzenchenko@github.com/111minutes/VideoTimelineControl.git', :commit => 'aef022f01ad5a7b3ff698db2786472c099fed115' }
+  s.source   = { :git => 'git://github.com/111minutes/VideoTimelineControl.git', :commit => 'aef022f01ad5a7b3ff698db2786472c099fed115' }
   
   s.source_files = 'VideoTimelineControl/TimelineControl/**/*.{h,m}'
   
