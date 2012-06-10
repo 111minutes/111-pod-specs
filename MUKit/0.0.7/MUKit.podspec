@@ -10,7 +10,7 @@ Pod::Spec.new do |s|
   
   s.source_files = 'MUKit/**/*.{h,m}'
   
-  s.framework    = 'QuartzCore'
+  s.frameworks   = 'QuartzCore', 'CoreData'
   
   s.dependency 'AFNetworking-Fork' 
 
