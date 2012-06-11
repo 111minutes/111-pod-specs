@@ -1,5 +1,5 @@
 Pod::Spec.new do |s|
-  s.name     = 'SVProgressHUD'
+  s.name     = 'SVProgressHUD-Fork'
   s.version  = '0.6'
   s.platform = :ios
   s.license  = 'MIT'
