@@ -6,7 +6,7 @@ Pod::Spec.new do |s|
   s.summary  = 'A clean and lightweight progress HUD for your iOS app.'
   s.homepage = 'http://samvermette.com/199'
   s.author   = { 'Sam Vermette' => 'hello@samvermette.com' }
-  s.source   = { :git => 'https://github.com/111minutes/SVProgressHUD.git', :commit => '2463753027c7340f1775e40c9ba35a5f10242cd3' }
+  s.source   = { :git => 'https://github.com/111minutes/SVProgressHUD.git', :commit => 'e043df9addabad767b92417ce41658b1b487e5d8' }
 
   s.description = 'SVProgressHUD is an easy-to-use, clean and lightweight progress HUD for iOS. ' \
                   'It’s a simplified and prettified alternative to the popular MBProgressHUD. '  \
