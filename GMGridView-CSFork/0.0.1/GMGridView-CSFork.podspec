@@ -12,4 +12,6 @@ Pod::Spec.new do |s|
   
   s.framework    = 'QuartzCore', 'CoreGraphics'
   
+  s.requires_arc = true
+  
 end
