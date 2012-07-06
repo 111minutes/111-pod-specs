@@ -11,4 +11,6 @@ Pod::Spec.new do |s|
   s.source_files = 'VideoTimelineControl/TimelineControl/**/*.{h,m}'
   s.resource     = 'VideoTimelineControl/TimelineControl/*.png'
   
+  s.requires_arc = true
+  
 end
