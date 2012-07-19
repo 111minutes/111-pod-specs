@@ -5,7 +5,7 @@ Pod::Spec.new do |s|
   s.homepage 	 = 'http://111minutes.com/'
   s.author       = "111minutes"
   s.license = ""
-  s.source       = { :git => 'https://github.com/111minutes/DXDAL-2.0.git', :tag => "v1.0.7" }
+  s.source       = { :git => 'https://github.com/111minutes/DXDAL-2.0.git', :tag => "v1.0.8" }
   s.source_files = 'NJDXDAL', 'NJDXDAL/**/*.{h,m}'                               
   s.dependency     'TBXML', '~> 1.5'
 end
