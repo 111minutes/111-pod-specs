@@ -6,7 +6,7 @@ Pod::Spec.new do |s|
   s.homepage = 'https://github.com/BradLarson/GPUImage'
   s.author   = 'BradLarson'
   
-  s.source   = { :git => 'https://github.com/BradLarson/GPUImage.git'}
+  s.source   = { :git => 'https://github.com/111minutes/GPUImage.git'}
   
   s.source_files = 'framework/Source/*.{h,m}'
   
