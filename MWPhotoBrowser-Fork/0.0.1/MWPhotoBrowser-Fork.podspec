@@ -11,8 +11,8 @@ Pod::Spec.new do |s|
 
   s.description  = 'MWPhotoBrowser is an implementation of a photo browser similar to the native Photos app in iOS.'\
                    'It can display one or more images by providing either UIImage objects, file paths to images on the device, '\
-		   ' or URLs to images online. The photo browser handles the downloading and caching of photos from the web seamlessly. ,\
-                   'Photos can be zoomed and panned, and optional (customisable) captions can be displayed. Works on iOS 3.2+. ,\
+		   ' or URLs to images online. The photo browser handles the downloading and caching of photos from the web seamlessly. '\
+                   'Photos can be zoomed and panned, and optional (customisable) captions can be displayed. Works on iOS 3.2+. '\
                    'All strings are localisable so they can be used in apps that support multiple languages.'
 
   s.source_files = 'MWPhotoBrowser/Classes'
