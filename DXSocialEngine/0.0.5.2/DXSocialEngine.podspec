@@ -4,9 +4,9 @@ Pod::Spec.new do |s|
   s.platform = :ios
   s.license  = 'Apache License, Version 2.0'
   s.homepage = 'https://Malaar@github.com/111minutes/SocialEngine.git'
-  s.author   = 'MUKitTeam'
+  s.author   = '111 Minutes'
   
-  s.source   = { :git => 'git@github.com:111minutes/SocialEngine.git', :commit => '707cb1db43fcc352a397a6508ef2dd8c9255aba8' }
+  s.source   = { :git => 'git@github.com:111minutes/SocialEngine.git', :commit => '4534dc3dfb25e5caf3daf9c40acaee98a0aecba9' }
   
   s.source_files = 'SocialEngine/API/**/*.{h,m,c,bundle}', 'SocialEngine/DXSocialEngine/**/*.{h,m,c,bundle}'
   s.resources    = 'SocialEngine/API/SCFacebook/Facebook/FBDialog.bundle', '/SocialEngine/API/Twitter/Twitter.bundle'
