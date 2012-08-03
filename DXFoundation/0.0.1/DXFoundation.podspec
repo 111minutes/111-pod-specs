@@ -7,7 +7,7 @@ Pod::Spec.new do |s|
   s.homepage = 'https://github.com/111minutes/DXFoundation'
   s.summary = "foundation tools."
   
-  s.source   = { :git => 'git://github.com/111minutes/DXFoundation.git', :commit => 'beadd6f9bbbfe6f3d76b6319b2ebad3b75f66fa5' }
+  s.source   = { :git => 'git://github.com/111minutes/DXFoundation.git', :commit => 'bc5758869497b6363ba12e153be935e04ee6ca4d' }
   
   s.source_files = 'DXFoundation/*/**/*.{h,m}'
   
