@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
    s.name	= 'DXControls'
-   s.version	= '1.0.0'
+   s.version	= '0.1'
 
    s.summary	= 'For the customization of controls'
    s.homepage	= 'http://111minutes.com/'
