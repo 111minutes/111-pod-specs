@@ -6,7 +6,7 @@ Pod::Spec.new do |s|
   s.homepage = 'https://github.com/111minutes/GMGridView-CSFork'
   s.author   = 'CrowdSyncTeam'
   
-  s.source   = { :git => 'git@github.com:111minutes/GMGridView-CSFork.git' }
+  s.source   = { :git => 'git://github.com/111minutes/GMGridView-CSFork.git' }
   
   s.source_files = 'GMGridView/API/*.{h,m}'
   
