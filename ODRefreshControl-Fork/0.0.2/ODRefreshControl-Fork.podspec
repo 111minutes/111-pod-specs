@@ -12,4 +12,6 @@ Pod::Spec.new do |s|
   s.source_files = 'ODRefreshControl'
 
   s.clean_paths  = ".gitattributes", ".gitignore", "Demo", "LICENSE.txt", "README.textile"
+  
+  s.requires_arc = true
 end
