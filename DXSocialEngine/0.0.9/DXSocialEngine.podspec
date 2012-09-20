@@ -17,6 +17,6 @@ Pod::Spec.new do |s|
   
   s.dependency 'MUKit'
   s.dependency 'DXSocialEngineARCThirdParty'
-  s.dependency 'SBJSON'
+  s.dependency 'SBJson'
 
 end
