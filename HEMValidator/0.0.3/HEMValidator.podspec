@@ -7,7 +7,8 @@ Pod::Spec.new do |s|
   s.author   = '111Minutes'
   
   s.source   = { :git => 'git@github.com:111minutes/HEMValidator.git', :commit => '84f6c74a39f3ab37add68b66b5e64e9520ab68b0' }
-  
+
+  s.requires_arc = true  
   s.source_files = 'HEMValidator/Classes/**/*.{h,m}'
-  
+
 end
