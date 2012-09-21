@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|			
   s.name     = 'ODRefreshControl-Fork'
   s.version  = '0.0.2'
-  s.platform = :ios
+  s.platform = :ios, '4.0'
   s.license  = '111minutes'
   s.summary  = 'ODRefreshControl is a “pull down to refresh” control for UIScrollView, like the one Apple introduced in iOS6, but available to anyone from iOS4 and up.'
   s.homepage = 'https://github.com/Sephiroth87/ODRefreshControl'
