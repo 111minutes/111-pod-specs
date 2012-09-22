@@ -17,5 +17,6 @@ Pod::Spec.new do |s|
   
   s.dependency 'MUKit'
   s.dependency 'HTTPRiot'
+  s.dependency 'TouchJSON'
 
 end
