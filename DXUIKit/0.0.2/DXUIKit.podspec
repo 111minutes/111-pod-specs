@@ -6,7 +6,7 @@ Pod::Spec.new do |s|
    s.homepage	= 'http://111minutes.com/'
    s.author	= "111minutes"
    s.license	= ""
-   s.source	= { :git => 'https://github.com/111minutes/DXUIKit.git', :commit => "27ed02efb692cbc9e3b16ea02c1f94f1967b6718" }
+   s.source	= { :git => 'https://github.com/111minutes/DXUIKit.git', :commit => "cfca805dde78c16f61eda027215b2794e4fd6621" }
    s.source_files = 'DXUIKit/*/**/*.{h,m}'
    s.requires_arc = true
 end
