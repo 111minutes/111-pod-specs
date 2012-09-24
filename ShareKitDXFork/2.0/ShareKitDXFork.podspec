@@ -1,5 +1,5 @@
 Pod::Spec.new do |s|
-  s.name          = 'ShareKit'
+  s.name          = 'ShareKitDXFork'
   s.version       = '2.0'
   s.platform      = :ios
   s.summary       = 'Drop in sharing features for all iPhone and iPad apps.'
