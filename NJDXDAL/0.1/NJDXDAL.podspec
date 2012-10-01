@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = 'NJDXDAL'
-  s.version      = '1.0.0'                                                                 
+  s.version      = '0.1'                                                                 
   s.summary      = 'Kit creates operation for http request with parsing and mapping.'
   s.homepage 	 = 'http://111minutes.com/'
   s.author       = "111minutes"
