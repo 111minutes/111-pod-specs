@@ -32,5 +32,6 @@ Pod::Spec.new do |s|
     gdxml.xcconfig     = { 'HEADER_SEARCH_PATHS' => '$(SDKROOT)/usr/include/libxml2' }
   end
 
-  s.dependency 'GTMOAuth2-Fork', 'GTMHTTPFetcher-Fork'
+  s.dependency 'GTMOAuth2-Fork' 
+  s.dependency 'GTMHTTPFetcher-Fork'
 end
