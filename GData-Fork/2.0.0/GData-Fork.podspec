@@ -23,7 +23,7 @@ Pod::Spec.new do |s|
   s.subspec 'YouTube' do |gdyt|
     gdyt.frameworks   = 'CFNetwork', 'SystemConfiguration'
     gdyt.source_files = 'Source/Clients/YouTube/*.{h,m}', 'Source/Clients/YouTube/Touch/*.{h,m}'
-    gdyt.dependency 'GData/Core'
+    gdyt.dependency 'GData-Fork/Core'
   end
 
   s.subspec 'XMLNode' do |gdxml|
