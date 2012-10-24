@@ -7,8 +7,6 @@ Pod::Spec.new do |s|
   s.author       = "Google Inc."
   s.source       = { :svn => 'http://gtm-http-fetcher.googlecode.com/svn/trunk/' }
 
-  s.osx.deployment_target = '10.5'
-  s.ios.deployment_target = '3.0'
   s.source_files = 'Source/*.{h,m}'
 
   s.license = {
