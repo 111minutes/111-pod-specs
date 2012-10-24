@@ -8,7 +8,7 @@ Pod::Spec.new do |s|
   s.source       = { :svn => 'http://gtm-oauth2.googlecode.com/svn/trunk/' }
 
   s.frameworks = 'Security', 'SystemConfiguration'
-  s.dependency = 'GTMHTTPFetcher-Fork'
+  s.dependency 'GTMHTTPFetcher-Fork'
 
   s.osx.deployment_target = '10.5'
   s.osx.source_files =
