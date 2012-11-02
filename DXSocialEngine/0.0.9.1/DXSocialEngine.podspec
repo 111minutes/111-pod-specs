@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name     = 'DXSocialEngine'
-  s.version  = '0.0.9'
+  s.version  = '0.0.9.1'
   s.platform = :ios
   s.license  = 'Apache License, Version 2.0'
   s.homepage = 'http://111min.com'
