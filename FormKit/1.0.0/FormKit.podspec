@@ -14,8 +14,9 @@ Pod::Spec.new do |s|
   s.platform     = :ios, '5.0'
   s.requires_arc = true
 
-  s.source_files = 'FormKit/Fields/*.{h,m}', 'FormKit/BWSelectViewController/*.{h,m}', 'FormKit/ActionSheetPicker/*.{h,m}', 'FormKit/*.{h,m}'
-  
+  s.source_files = 'FormKit/**/*.{h,m}'
+  s.public_header_files = 'FormKit/FormKit.h'
+
   s.dependency 'BWLongTextViewController'
 
 end
