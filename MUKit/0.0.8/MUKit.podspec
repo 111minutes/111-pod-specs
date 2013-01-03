@@ -12,7 +12,7 @@ Pod::Spec.new do |s|
   
   s.frameworks   = 'QuartzCore', 'CoreData'
   
-  s.dependency 'AFNetworking' 
+  s.dependency 'AFNetworking-Fork' 
   
   s.compiler_flags = '-all_load'
 
