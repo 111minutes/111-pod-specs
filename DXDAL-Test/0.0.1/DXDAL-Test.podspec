@@ -8,7 +8,7 @@ Pod::Spec.new do |s|
   s.summary	= '111Minutes networking framework.'
   s.homepage	= 'http://111minutes.com/'
   
-  s.source   = { :git => 'https://github.com/111minutes/DXDAL.git', :commit => '6127e2f8d5f665a3088e697a1a491b00e43b9555' }
+  s.source   = { :git => 'https://github.com/111minutes/DXDAL.git', :tag => '0.1.3' }
   
   s.source_files = 'DXDAL/Code/**/*.{h,m}'
   
