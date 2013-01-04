@@ -13,7 +13,7 @@ Pod::Spec.new do |s|
   s.source_files = 'DXDAL/Code/**/*.{h,m}'
   
   s.dependency 'JSONKit'
-  s.dependency 'AFNetworking-Fork'
+  s.dependency 'AFNetworking'
   s.dependency 'Reachability'
   s.dependency 'DXDomain'
   s.dependency 'JTObjectMapping-Fork'
