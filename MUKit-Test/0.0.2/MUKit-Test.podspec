@@ -1,12 +1,12 @@
 Pod::Spec.new do |s|
   s.name     = 'MUKit-Test'
-  s.version  = '0.0.1'
+  s.version  = '0.0.2'
   s.platform = :ios
   s.license  = 'Apache License, Version 2.0'
   s.homepage = 'https://github.com/111minutes/MUKit'
   s.author   = '111 Minutes'
   
-  s.source   = { :git => 'git://github.com/mashkovmax/MUKit.git', :commit => '878fba42c770822974b64a06175af8f2e1468b5c' }
+  s.source   = { :git => 'git://github.com/mashkovmax/MUKit.git', :commit => 'd325e4648bcd0c13565262f961d31a4be44c3781' }
   
   s.source_files = 'MUKit/**/*.{h,m}'
   
