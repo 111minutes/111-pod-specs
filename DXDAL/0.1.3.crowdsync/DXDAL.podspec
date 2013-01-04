@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
-  s.name     = 'DXDAL-Test'
-  s.version  = '0.1.5'
+  s.name     = 'DXDAL'
+  s.version  = '0.1.3.crowdsync'
   s.platform = :ios
   s.license  = 'Apache License, Version 2.0'
   s.author   = '111Minutes'
@@ -13,7 +13,7 @@ Pod::Spec.new do |s|
   s.source_files = 'DXDAL/Code/**/*.{h,m}'
   
   s.dependency 'JSONKit'
-  s.dependency 'AFNetworking'
+  s.dependency 'AFNetworking-Fork'
   s.dependency 'Reachability'
   s.dependency 'DXDomain'
   s.dependency 'JTObjectMapping-Fork'
