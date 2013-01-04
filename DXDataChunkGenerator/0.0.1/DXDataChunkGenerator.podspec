@@ -8,7 +8,7 @@ Pod::Spec.new do |s|
   s.summary	= '111Minutes chunk generator.'
   s.homepage	= 'http://111minutes.com/'
   
-  s.source   = { :git => 'https://github.com/111minutes/DXDAL.git', :tag => '0.0.1' }
+  s.source   = { :git => 'https://github.com/111minutes/BytewiseFileAccess.git', :tag => '0.0.1' }
   
   s.source_files = 'DataManipPlusTest/Code/**/*.{h,m}'
   
