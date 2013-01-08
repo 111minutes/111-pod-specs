@@ -8,7 +8,7 @@ Pod::Spec.new do |s|
   s.summary	= '111Minutes state machine.'
   s.homepage	= 'http://111minutes.com/'
   
-  s.source   = { :git => 'https://github.com/mashkovmax/DXStateMachine.git', :commit => '0.0.1' }
+  s.source   = { :git => 'https://github.com/111minutes/DXStateMachine.git', :commit => '0.0.1' }
   
   s.source_files = 'DXStateMachine/Code/**/*.{h,m}'
   
