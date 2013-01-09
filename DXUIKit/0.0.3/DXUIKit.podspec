@@ -6,7 +6,10 @@ Pod::Spec.new do |s|
    s.homepage	= 'http://111minutes.com/'
    s.author	= "111minutes"
    s.license	= ""
-   s.source	= { :git => 'https://github.com/111minutes/DXUIKit.git', :commit => "a78a107394b32df341a13a5e6ab1cf458c445fa9" }
-   s.source_files = 'DXUIKit/*/**/*.{h,m}'
+   s.source	= { :git => 'https://github.com/111minutes/DXUIKit.git', :commit => "cfa11f36843614ce8c2c7a1c6b736da2c74e6771" }
+   s.source_files = 'DXUIKit/Classes/**/*.{h,m}'
+   s.framework    = 'QuartzCore'
+   s.framework    = 'UIKit'
+   s.framework    = 'CoreGraphics'
    s.requires_arc = true
 end
