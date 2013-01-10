@@ -6,7 +6,7 @@ Pod::Spec.new do |s|
   s.homepage = 'https://github.com/111minutes/DXValidator.git'
   s.author   = '111Minutes'
   
-  s.source   = { :git => 'git@github.com:111minutes/DXValidator.git', :commit => '989e3277f927968fd6747c8ff5fbba21baa4e875' }
+  s.source   = { :git => 'git://github.com/111minutes/DXValidator.git', :commit => '989e3277f927968fd6747c8ff5fbba21baa4e875' }
 
   s.requires_arc = true  
   s.source_files = 'DXValidator/Classes/**/*.{h,m}', 'DXValidator/Classes/*.{h,m}'
