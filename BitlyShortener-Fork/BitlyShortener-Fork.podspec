@@ -1,11 +1,12 @@
 Pod::Spec.new do |s|
-  s.name     = 'DXDAL'
-  s.version  = '0.1.1'
+  s.name     = 'BitlyShortener-Fork'
+  s.version  = '0.0.1'
   s.platform = :ios
-  s.license  = 'Apache License, Version 2.0'
-  s.author   = '111Minutes'
+  s.author   = 'stefan@arentz.ca'
   
-  s.source   = { :git => 'git@github.com:111minutes/DXDAL.git', :commit => '68b32a0be387a34ac54fcab8fdb7d32ec6adc703' }
+  s.summary	= 'Bit.ly shortener'
+  
+  s.source   = { :git => 'https://github.com/111minutes/iphone-bitly.git', :commit => '1e075e9d9078f364b55bfc9740e061b4fd41f48b' }
   
   s.source_files = 'DXDAL/Code/**/*.{h,m}'
   
