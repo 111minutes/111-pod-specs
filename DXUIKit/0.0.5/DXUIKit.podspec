@@ -6,7 +6,7 @@ Pod::Spec.new do |s|
    s.homepage	= 'http://111minutes.com/'
    s.author	= "111minutes"
    s.license	= ""
-   s.source	= { :git => 'https://github.com/111minutes/DXUIKit.git', :commit => "b07b8fcee0054f7a7c24f3db41c472881886dab6" }
+   s.source	= { :git => 'https://github.com/111minutes/DXUIKit.git', :commit => "a4c1e657ed9d971a60578f231c016cebf81893c5" }
    s.source_files = 'DXUIKit/Classes/**/*.{h,m}'
    s.framework    = 'QuartzCore'
    s.framework    = 'UIKit'
