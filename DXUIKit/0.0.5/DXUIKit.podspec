@@ -1,12 +1,12 @@
 Pod::Spec.new do |s|
    s.name	= 'DXUIKit'
-   s.version	= '0.0.2'
+   s.version	= '0.0.5'
 
    s.summary	= '111Minutes UI framework'
    s.homepage	= 'http://111minutes.com/'
    s.author	= "111minutes"
    s.license	= ""
-   s.source	= { :git => 'https://github.com/111minutes/DXUIKit.git', :commit => "0cee6172e20087b84a83b5674515d8f3ebe4ef7a" }
+   s.source	= { :git => 'https://github.com/111minutes/DXUIKit.git', :commit => "a4c1e657ed9d971a60578f231c016cebf81893c5" }
    s.source_files = 'DXUIKit/Classes/**/*.{h,m}'
    s.framework    = 'QuartzCore'
    s.framework    = 'UIKit'
