@@ -1,5 +1,5 @@
 Pod::Spec.new do |s|
-  s.name         = "DXServices"
+  s.name         = "TPKeyboardAvoiding-Fork"
   s.version      = "0.0.1"
   s.summary      = "A drop-in universal solution for moving text fields out of the way of the keyboard in iOS"
   s.homepage     = "https://github.com/111minutes/TPKeyboardAvoiding"
