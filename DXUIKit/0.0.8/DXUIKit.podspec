@@ -8,7 +8,8 @@ Pod::Spec.new do |s|
    s.homepage	= 'http://111minutes.com/'
    s.author	= "111minutes"
    
-   s.source	= { :git => 'https://github.com/111minutes/DXUIKit.git', :tag => "0.0.8" }
+   s.source	= { :git => 'https://github.com/111minutes/DXUIKit.git', :commit => "7dc7d45f7f38a0cbce5ac9e95bced3af112820eb" }
+
    s.source_files = 'DXUIKit/Classes/**/*.{h,m}'
    s.requires_arc = true
    s.framework 	= 'UIKit', 'QuartzCore', 'CoreGraphics'
