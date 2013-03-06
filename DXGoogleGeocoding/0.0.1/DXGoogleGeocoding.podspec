@@ -11,6 +11,6 @@ Pod::Spec.new do |s|
   
   s.source_files = 'DXGoogleGeocoding/Classes/**/*.{h,m}'
   s.frameworks  = 'CoreLocation'
-  s.dependency 'AFNetworking-Fork'
+  s.dependency 'AFNetworking'
 
 end
