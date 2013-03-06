@@ -7,10 +7,10 @@ Pod::Spec.new do |s|
   s.homepage = 'https://github.com/111minutes/DXGoogleGeocoding.git'
   s.author   = '111Minutes'
   
-  s.source   = { :git => 'git@github.com:111minutes/DXGoogleGeocoding.git', :commit => 'd5fbab78916a6c78a6fa6a8315107a05d5beb17e' }
+  s.source   = { :git => 'git://github.com/111minutes/DXGoogleGeocoding.git', :commit => 'd5fbab78916a6c78a6fa6a8315107a05d5beb17e' }
   
   s.source_files = 'DXGoogleGeocoding/Classes/**/*.{h,m}'
   s.frameworks  = 'CoreLocation'
-  s.dependency 'AFNetworking-Fork'
+  s.dependency 'AFNetworking'
 
 end
