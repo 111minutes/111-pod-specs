@@ -7,7 +7,7 @@ Pod::Spec.new do |s|
    s.homepage	= 'https://github.com/ustwo/US2FormValidator'
    s.author	    = {'Martin Stolz' => 'martin@ustwo.co.uk', 'Alex Fish' => 'fish@ustwo.co.uk'}
    s.platform   = :ios
-   s.source	    = { :git => 'https://github.com/111minutes/US2FormValidator.git', :commit => "6983547397d275c04e7793ad45a01a63bfa1c9cb" }
+   s.source	    = { :git => 'https://github.com/111minutes/US2FormValidator.git', :commit => "3c470c6a2d55068a7083ca05cc6ffdc642f454cf" }
 
    s.source_files    = 'US2FormValidationFramework/source/**/*.{h,m}'
    s.resources       = 'US2FormValidationFramework/US2Localizable/*'
