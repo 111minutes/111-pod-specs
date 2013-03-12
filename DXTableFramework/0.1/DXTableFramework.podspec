@@ -1,0 +1,17 @@
+Pod::Spec.new do |s|
+   s.name	= 'DXTableFramework'
+   s.version	= '1.0.0'
+
+   s.summary	= 'For creating custom tableViews'
+   s.homepage	= 'http://111minutes.com/'
+   s.author	= "111minutes"
+   s.license	= ""
+   s.source	= { :git => 'http://git.111min.com/the111minutes/dxtableframework.git' }
+   s.source_files = 'Code/**/*.{h,m}'
+   s.requires_arc = true
+
+   s.dependency     'AFNetworking'
+   s.dependency     'DXFoundation'
+   s.dependency	    'PSTCollectionView'
+   s.dependency     'MBProgressHUD'
+end
