@@ -10,8 +10,6 @@ Pod::Spec.new do |s|
    s.source_files = 'DXTableKit', 'Code/**/*.{h,m}'
    s.requires_arc = true
 
-   s.dependency     'AFNetworking'
    s.dependency     'DXFoundation'
-   s.dependency	    'PSTCollectionView'
    s.dependency     'MBProgressHUD'
 end
