@@ -6,8 +6,8 @@ Pod::Spec.new do |s|
    s.homepage	= 'http://111minutes.com/'
    s.author	= "111minutes"
    s.license	= ""
-   s.source	= { :git => 'http://git.111min.com/the111minutes/dxtableframework.git', :tag => '0.1' }
-   s.source_files = 'Code/**/*.{h,m}'
+   s.source	= { :git => 'http://git.111min.com/the111minutes/dxtableframework.git', :tag => 'v0.1' }
+   s.source_files = 'DXTableKit', 'Code/**/*.{h,m}'
    s.requires_arc = true
 
    s.dependency     'AFNetworking'
