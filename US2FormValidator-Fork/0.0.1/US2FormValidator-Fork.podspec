@@ -3,7 +3,7 @@ Pod::Spec.new do |s|
    s.version	= '0.0.1'
    s.license	= "MIT"
    
-   s.summary	= 'iOS Form Validator'
+   s.summary	= 'iOS Form Validator.'
    s.homepage	= 'https://github.com/ustwo/US2FormValidator'
    s.author	    = {'Martin Stolz' => 'martin@ustwo.co.uk', 'Alex Fish' => 'fish@ustwo.co.uk'}
    s.platform   = :ios
