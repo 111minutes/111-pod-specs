@@ -17,6 +17,7 @@ Pod::Spec.new do |s|
   s.dependency 'Reachability'
   s.dependency 'DXDomain'
   s.dependency 'EGOCache'
+  s.dependency 'JTObjectMapping-Fork'
 
   s.requires_arc = true
 end
