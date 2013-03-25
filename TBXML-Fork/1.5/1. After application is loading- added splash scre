@@ -1,0 +1,7 @@
+1. After application is loading- added splash screen. It displays while web view loading. If connection error - it will wait untill connection will be avalaible and then reload webView.
+2. Now webView intialize onece and always in memory. Start url: <baseURL>/app
+3. Reimplemented navigation in project. JS Navigation
+4. Invations. Recieving ist of already nvited emails (will not display them in contact list). Sending new invations. If error - showing error handler by JS. 401 - navigate to login (by JS) 403 - navigate to profile (by JS).
+5. Small GUI fixes
+6. Push notifications
+7. Where possible added header to request  header:X-iTronic-Version value:1.0
