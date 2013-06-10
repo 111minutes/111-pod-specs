@@ -12,6 +12,6 @@ Pod::Spec.new do |s|
    s.requires_arc = true
 
    s.dependency     'DXFoundation'
-   s.dependency     'MBProgressHUD'
+   s.dependency     'MBProgressHUD-Fork'
    s.dependency     'PSTCollectionView'
 end
